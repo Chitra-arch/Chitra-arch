@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Java+%2B+Python+%2B+Spring+Boot;Building+distributed+systems+%26+REST+APIs;Deploying+ML+apps+on+Google+Cloud;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Java+%2B+Python+%2B+Spring+Boot;Building+distributed+systems+%26+REST+APIs;Deploying+ML+apps+on+Google+Cloud;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -166,18 +166,3 @@ public class Chitra {
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
-
-<!--
-**Chitra-arch/Chitra-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
