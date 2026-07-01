@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chitra%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Python%20%C2%B7%20Spring%20Boot%20%7C%20Cloud%20%26%20Distributed%20Systems&descAlignY=62&descSize=16)](https://github.com/Chitra-arch)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chitra%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Java%2C%20Python%2C%20Spring%20Boot&descAlignY=62&descSize=16)](https://github.com/Chitra-arch)
 
 <div align="center">
 
@@ -104,7 +104,7 @@ public class Chitra {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Chitra-arch&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+![Trophies](https://github-trophies.vercel.app/?username=Chitra-arch&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 
 </div>
 
